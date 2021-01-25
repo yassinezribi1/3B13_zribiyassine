@@ -59,8 +59,8 @@ p {
 	transition-property: background-color, color;
 }
 .cta:hover {
-	color: white;
-	background-color: crimson;
+	color: crimson;
+	background-color: rgb(255, 255, 255);
 }
 .brand h1 {
 	font-size: 3rem;
